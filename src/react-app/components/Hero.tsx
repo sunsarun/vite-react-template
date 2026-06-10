@@ -8,7 +8,7 @@ export const Hero = () => {
         <div className="relative w-48 h-48 md:w-80 md:h-80 rounded-full p-[2px] bg-gradient-to-tr from-violet-500 via-cyan-400 to-fuchsia-500 group liquid-border">
           <div className="w-full h-full rounded-full bg-slate-950 flex items-center justify-center overflow-hidden relative z-10">
             <img 
-              src="src/assets/profile.jpg" 
+              src="src/react-app/assets/profile.jpg"
               alt="Sarun" 
               className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-1000 scale-110 group-hover:scale-100"
             />
